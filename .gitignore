@@ -1,0 +1,4 @@
+# oxygen-Projektfile
+*.xpr
+# AIP-Output (alt und neu)
+XSLT/aip*
